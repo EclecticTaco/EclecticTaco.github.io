@@ -1,0 +1,3 @@
+[submodule "pazaak"]
+	path = pazaak
+	url = https://github.com/EclecticTaco/pazaak
